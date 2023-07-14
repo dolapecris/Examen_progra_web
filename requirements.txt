@@ -1,0 +1,6 @@
+django == 4.2.2
+pillow
+django-crispy-forms
+crispy-bootstrap5
+django-ckeditor
+
